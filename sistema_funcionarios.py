@@ -1,5 +1,4 @@
 # Sistema de Cadastro de Funcionários
-# Etapa 5 - Cálculos
 
 funcionarios = []
 
